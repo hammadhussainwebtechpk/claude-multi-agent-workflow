@@ -11,3 +11,6 @@ Review and test planning are independent, so the workflow runs those workers in 
 
 ## Installation
 Load locally with `claude --plugin-dir .`. The marketplace catalog lists this plugin with the same name as `plugin.json`.
+
+## Submission
+Plugin structure and marketplace configuration were committed and tested for the course submission.
